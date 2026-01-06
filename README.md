@@ -1,8 +1,8 @@
 Hi, I’m @ff66theone<br><br>
-I’m interested in low-level programming.<br>
-I’m currently learning x86 assembly.<br>
+I’m interested in low-level programming/retrocomputing.<br>
+I’m currently learning how to dialog with PCI/PCIe hardware.<br>
 Specs:
-- Intel Core i5-6600K@4.30GHz
+- 🆕 Intel Core i7-7700K
 - 4x8GB DDR3-1866MHz RAM
 - ASUS Z170-P D3
 - Seagate BarraCuda 1TB 7200RPM HDD
